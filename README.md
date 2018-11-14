@@ -1,3 +1,3 @@
 # Xbox-telnet-enabler
 An xbox one telnet enabler
-[logo]: https://imgur.com/4ZutUL9
+[logo]: https://i.imgur.com/4ZutUL9.png
